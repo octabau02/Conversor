@@ -24,5 +24,5 @@ Un pequeño programa que hace conversiones de divisas y temperatura.
   Java 17
   Java Swing
 ## Autores
-<img src="https://github.com/octabau02/Conversor/assets/63611156/2a2bdc0a-bd16-4e58-a5c3-6b8e5fd4420f)" width=115>
+<img src="https://github.com/octabau02/Conversor/assets/63611156/2a2bdc0a-bd16-4e58-a5c3-6b8e5fd4420f)" width=115><br>
   Octavio 
